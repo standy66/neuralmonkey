@@ -5,7 +5,7 @@ ansiconv
 numpy
 scipy
 pillow
-git+https://github.com/aflc/pyter@857a1552443f139a3
+git+https://github.com/standy66/pyter
 python_speech_features
 pygments
 typeguard
